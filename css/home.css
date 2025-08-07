@@ -1,0 +1,9 @@
+main .imagem-principal img {
+    max-width: 70%;
+    height: auto;
+}
+
+footer {
+    background-color: blue;
+    color: aliceblue;
+}
